@@ -2,7 +2,6 @@ name: README - Latest Activity
 
 on:
 	schedule:
-#		Runs every hour
 		- cron: '0 * * * *'
 	workflow_dispatch:
 
