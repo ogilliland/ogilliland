@@ -1,6 +1,6 @@
 # Hi there, I'm Oliver 👋
 
-- 🔭 I'm currently working on game dev and digital art / toys
+- 🔭 I'm currently working on game dev and interactive digital art
 - 🌱 I’m currently learning Blender and Godot
 - 👯 I’m looking to collaborate with other artists and indie devs
 - 🥅 2022 goals: start an online blog, participate in more game jams
@@ -40,10 +40,10 @@
 
 ➡️ [more blog posts...](https://ogilliland.github.io)
 
---
+---
 
 <details>
-	<summary>:zap: Latest Activity</summary>
+	<summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
