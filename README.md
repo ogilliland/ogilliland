@@ -35,7 +35,7 @@
 # Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World!](https://ogilliland.github.io//blog/hello-world/)
+- [Hello, World!](https://ogilliland.github.io/blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ogilliland.github.io/blog)
