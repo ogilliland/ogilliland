@@ -38,7 +38,7 @@
 - [Hello, World!](https://ogilliland.github.io//blog/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://ogilliland.github.io)
+➡️ [more blog posts...](https://ogilliland.github.io/blog)
 
 ---
 
