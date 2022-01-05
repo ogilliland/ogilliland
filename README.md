@@ -33,7 +33,15 @@
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+	<summary>:zap: Latest Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+	<summary>:zap: GitHub Stats</summary>
 
 <img align="left" alt="Oliver's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ogilliland&show_icons=true&hide_border=true" />
 
